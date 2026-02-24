@@ -1,2 +1,2 @@
-# java-backend-training
+# java-training
 Core Java backend training
