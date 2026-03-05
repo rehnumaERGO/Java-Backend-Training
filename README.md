@@ -10,6 +10,6 @@ The projects follow my daily learning goals from operators, OOP, collections to 
 - **Day-03_Arrays_Methods_Variables**: Arrays, methods, and variables practice.
 - **Day-04_BasicOOP**: Basic Object-Oriented Programming concepts with insurance policy modeling.
 - **Day-05_AdvancedOOP**: Advanced OOP concepts including encapsulation and interfaces.
-- **Day-06_ArrayLists_ExceptionHandling**: ArrayLists and exception handling in customer management.
+- **Day-06_ArrayLists_ExceptionHandling**: ArrayLists and exception handling in management.
 
 Feel free to browse code and reach out for questions.
