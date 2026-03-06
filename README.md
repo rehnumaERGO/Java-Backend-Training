@@ -4,7 +4,8 @@ This repository contains Java practice projects focusing on backend development.
 The projects follow my daily learning goals from operators, OOP, collections to Spring Boot basics.
 
 ## Folder structure
-
+- **Java Foundation**: Practice programs of the basics of java programming.
+- **Object Oriented Programming**: Practice codes of oops concepts in java programming.
 - **Day-01_Operators_UserInput**: Java basics with operators and user input.
 - **Day-02_Conditionals_Loops**: Conditionals and loops applied to insurance scenarios.
 - **Day-03_Arrays_Methods_Variables**: Arrays, methods, and variables practice.
@@ -16,3 +17,4 @@ The projects follow my daily learning goals from operators, OOP, collections to 
 - **Day-09_FunctionalProgramming**: Functional programming concepts using Streams, Lambda expressions, and operations like filter, map, and reduce.
 - **Day-10_Threads_Concurrency_Practice**: Solved concurrency problems using thread creation, synchronization, and handling race conditions.
 - **Day-11_Collections_Streams_Practice**: Practiced using Collections and Streams including filtering, mapping, sorting, and lambda expressions for efficient data processing.
+- **Quickstart**: Basic Hello World Spring Boot Project.
