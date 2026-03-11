@@ -9,19 +9,27 @@ public class UserInput {
         String name = scanner.nextLine();
         System.out.println("Hello " + name);
 
+        System.out.println(" ");
+
         // int value
         System.out.print("what is your age? ");
         int age = scanner.nextInt();
         System.out.println("you are " + age + " years old");
 
+        System.out.println(" ");
+
         System.out.print("Enter your favorite color: ");
         String color = scanner.next();
         System.out.println("you like " + color + " color");
+
+        System.out.println(" ");
 
         // double value
         System.out.print("what is your grade: ");
         double grade = scanner.nextDouble();
         System.out.println("your garde is " + grade);
+
+        System.out.println(" ");
 
         // boolean value
         System.out.print("Are you a student?(true/false): ");
@@ -34,4 +42,5 @@ public class UserInput {
 
         scanner.close();
     }
+
 }
